@@ -88,6 +88,16 @@ MIUCC Conference for International Mobile Intelligent and Ubiquitous Computing (
 
 # 💻 Projects
 
+### Customer Care — Questionnaire Assistant
+Built a **Databricks App (Streamlit)** that ingests supplier/customer-care questionnaire and manual PDFs, extracts structured context, and retrieves AI-assisted answers from two Unity Catalog vector indexes (historical Questionnaires + Manuals & Guides) with cross-encoder re-ranking. Includes OCR (PP-OCRv6 MLflow models), prompt-injection safety, review/feedback workflow, PDF export, and OpenTelemetry telemetry. Prepared for public release with all identifiers anonymized. Built with:
+
+- Python & Streamlit
+- Databricks (SQL Warehouse, Vector Search, Model Serving, Unity Catalog)
+- PyMuPDF & PaddleOCR
+- Sentence-Transformers (cross-encoder re-ranking)
+- OpenTelemetry
+- MLflow (evaluation harness)
+
 ### Student GPA Prediction Analysis
 Built an end-to-end machine learning pipeline using the **HSLS:09 dataset** to predict GPA categories using:
 - Feature selection
