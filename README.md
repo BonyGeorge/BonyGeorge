@@ -1,8 +1,8 @@
 # Hi, I'm Abanoub Alam 👋
 
-🧑‍💻 AI Engineering Intern @ Bio-Techne
-🎓 Master's Student in Artificial Intelligence  
-💻 Machine Learning & Generative AI Developer  
+🧑‍💻 AI Engineering Intern @ Bio-Techne.
+🎓 Master's Student in Artificial Intelligence.  
+💻 Machine Learning & Generative AI Developer.  
 📊 Passionate about data-driven insights, intelligent systems, and cloud AI technologies.
 
 ---
