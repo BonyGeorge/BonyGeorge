@@ -35,21 +35,25 @@ El Gouna International School (EGIS), 2017
 - Python  
 - Java  
 - C++  
-- JavaScript  
+- JavaScript
+- Streamlit  
 
 ## Machine Learning & Data Science
 - NumPy  
 - Pandas  
 - Scikit-Learn  
 - Feature Engineering  
-- Model Evaluation & Optimization  
+- Model Evaluation & Optimization
+- Retrieval-Augmented Generation (RAG)
 
 ## Deep Learning
 - CNNs  
 - YOLO  
 - ResNet  
 - TensorFlow  
-- Keras  
+- Keras
+- Sentence-Transformers (Cross-Encoders)
+- OCR (PaddleOCR)
 
 ## Data Visualization
 - Matplotlib  
@@ -61,20 +65,24 @@ El Gouna International School (EGIS), 2017
 - LLM Fundamentals  
 - Image Generation  
 - Prompt Engineering (Vertex AI, AWS)  
-- Responsible AI  
+- Responsible AI
+- Prompt-Injection Safety
 
 ## Cloud & AI Platforms
 - AWS (ML & GenAI services)  
 - Google Cloud (Vertex AI, GenAI APIs)  
 - Azure (Solutions Architect Fundamentals)
+- Databricks (SQL Warehouse, Vector Search, Model Serving, Unity Catalog, Asset Bundles)
 
 ## Tools
 - Git  
 - Linux  
 - Jupyter Notebook  
 - REST API Development
-- Airflow  
-
+- Airflow
+- MLflow
+- OpenTelemetry
+- Databricks CLI / Asset Bundles
 ---
 
 # 📚 Publication
