@@ -98,7 +98,7 @@ MIUCC Conference for International Mobile Intelligent and Ubiquitous Computing (
 # 💻 Projects
 
 ### Customer Care — Questionnaire Assistant
-Built a **Databricks App (Streamlit)** that ingests supplier/customer-care questionnaire and manual PDFs, extracts structured context, and retrieves AI-assisted answers from two Unity Catalog vector indexes (historical Questionnaires + Manuals & Guides) with cross-encoder re-ranking. Includes OCR (PP-OCRv6 MLflow models), prompt-injection safety, review/feedback workflow, PDF export, and OpenTelemetry telemetry. Prepared for public release with all identifiers anonymized. Built with:
+Built a **Databricks App (Streamlit)** that ingests supplier/customer-care questionnaire and manual PDFs, extracts structured context, and retrieves AI-assisted answers from two Unity Catalog vector indexes (historical Questionnaires + Manuals & Guides) with cross-encoder re-ranking. Includes OCR (PP-OCRv6 MLflow models), prompt-injection safety, review/feedback workflow, PDF export, and OpenTelemetry telemetry. Built with:
 
 - Python & Streamlit
 - Databricks (SQL Warehouse, Vector Search, Model Serving, Unity Catalog)
